@@ -1,0 +1,28 @@
+INVOICE #INV-2024-001
+
+Date: 2024-01-15
+Due Date: 2024-02-15
+
+Bill To:
+John Smith
+123 Main Street
+New York, NY 10001
+Email: john.smith@email.com
+Phone: (555) 123-4567
+
+From:
+ABC Company Inc.
+456 Business Ave
+Los Angeles, CA 90210
+
+Description                 Qty    Price    Total
+Web Development Services     1     $2,500   $2,500
+Domain Registration          1       $15      $15
+Hosting (1 year)            1      $120     $120
+
+                          Subtotal: $2,635
+                               Tax:   $263
+                             Total: $2,898
+
+Payment Terms: Net 30 days
+Thank you for your business!

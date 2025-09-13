@@ -1,0 +1,6 @@
+@echo off
+echo Installing dependencies...
+pip install -r requirements.txt
+
+echo Starting Multi-Format Document Parser...
+streamlit run app.py

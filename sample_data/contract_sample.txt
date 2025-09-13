@@ -1,0 +1,41 @@
+SERVICE AGREEMENT
+
+Contract Number: SA-2024-0156
+Effective Date: January 1, 2024
+Expiration Date: December 31, 2024
+
+PARTIES:
+Client: TechCorp Solutions LLC
+Address: 789 Innovation Drive, Austin, TX 78701
+Contact: Michael Brown, CTO
+Email: michael.brown@techcorp.com
+Phone: (512) 555-0199
+
+Service Provider: Digital Services Inc.
+Address: 321 Service Street, Dallas, TX 75201
+Contact: Lisa Chen, Account Manager
+Email: lisa.chen@digitalservices.com
+Phone: (214) 555-0288
+
+SERVICES:
+- Cloud Infrastructure Management
+- 24/7 Technical Support
+- Monthly Security Audits
+- Backup and Disaster Recovery
+
+TERMS:
+Monthly Fee: $8,500
+Setup Fee: $2,000 (one-time)
+Payment Terms: Net 15 days
+Auto-renewal: Yes
+
+PERFORMANCE METRICS:
+- Uptime SLA: 99.9%
+- Response Time: < 2 hours
+- Resolution Time: < 24 hours
+
+This agreement is governed by the laws of Texas.
+
+Signatures:
+Client: _________________ Date: _________
+Provider: _______________ Date: _________
