@@ -1,5 +1,7 @@
 # Multi-Format Document Parser
 
+🎥 **[Demo Video](https://drive.google.com/file/d/1UwLzGrepGMLvrwusg_CvBwJwyr2J72GY/view?usp=sharing)** - Watch the solution in action
+
 A hybrid document processing system that produces normalized JSON from various document formats while minimizing AI costs through intelligent rule learning.
 
 ## Architecture
